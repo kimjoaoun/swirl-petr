@@ -1,2 +1,2 @@
 # swirl-petr
-Versão do curso de Pedro Cavalcante (@pedrocava) do curso petR, disponível no repositório pedrocava/petR.
+Versão do interativa curso de Pedro Cavalcante (@pedrocava) do curso petR para Swirl, disponível no repositório pedrocava/petR.
